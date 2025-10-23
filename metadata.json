@@ -1,0 +1,5 @@
+{
+  "name": "TermiTune - Terminal YouTube Music Client",
+  "description": "A terminal-based YouTube music client with Google account integration, song caching & downloading. Inspired by classic terminal user interfaces.",
+  "requestFramePermissions": []
+}
